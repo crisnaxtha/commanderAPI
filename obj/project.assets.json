@@ -5948,11 +5948,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Lochan\\000 Lochan-Project\\01 Mero Khata\\MeroKhata1\\Commander\\Commander.csproj",
+      "projectUniqueName": "E:\\Lochan\\000 Lochan-Project\\01 Mero Khata\\Commander\\Commander.csproj",
       "projectName": "Commander",
-      "projectPath": "E:\\Lochan\\000 Lochan-Project\\01 Mero Khata\\MeroKhata1\\Commander\\Commander.csproj",
+      "projectPath": "E:\\Lochan\\000 Lochan-Project\\01 Mero Khata\\Commander\\Commander.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "E:\\Lochan\\000 Lochan-Project\\01 Mero Khata\\MeroKhata1\\Commander\\obj\\",
+      "outputPath": "E:\\Lochan\\000 Lochan-Project\\01 Mero Khata\\Commander\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",

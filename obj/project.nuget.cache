@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "yXIR/EFh1qokwrwfIwiogO48fIbIwG13OtZi9KhLiHB8FS1ul5Jw9vORDIjNnBzvKIbWvK1SLzmWdP88ABUalA==",
+  "dgSpecHash": "XY0w8LMGoQbL8d6nqSq91ilKpyngS6UAjS1gegw1+Cjr8R+BoqnduL1oZzvsOkcnQK/oBdYeJ3iYJKS1Rc9mCg==",
   "success": true,
-  "projectFilePath": "E:\\Lochan\\000 Lochan-Project\\01 Mero Khata\\MeroKhata1\\Commander\\Commander.csproj",
+  "projectFilePath": "E:\\Lochan\\000 Lochan-Project\\01 Mero Khata\\Commander\\Commander.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
