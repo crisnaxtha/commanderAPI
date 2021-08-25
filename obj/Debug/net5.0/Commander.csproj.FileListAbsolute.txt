@@ -59,3 +59,5 @@ E:\Lochan\000 Lochan-Project\01 Mero Khata\Commander\obj\Debug\net5.0\Commander.
 E:\Lochan\000 Lochan-Project\01 Mero Khata\Commander\obj\Debug\net5.0\ref\Commander.dll
 E:\Lochan\000 Lochan-Project\01 Mero Khata\Commander\obj\Debug\net5.0\Commander.pdb
 E:\Lochan\000 Lochan-Project\01 Mero Khata\Commander\obj\Debug\net5.0\Commander.genruntimeconfig.cache
+E:\Lochan\000 Lochan-Project\01 Mero Khata\Commander\bin\Debug\net5.0\AutoMapper.dll
+E:\Lochan\000 Lochan-Project\01 Mero Khata\Commander\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
