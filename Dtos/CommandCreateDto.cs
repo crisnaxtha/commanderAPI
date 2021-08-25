@@ -1,6 +1,6 @@
 namespace Commander.Dtos 
 {
-    public class CommanderCreateDto 
+    public class CommandCreateDto 
     {
 
         public string HowTo { get; set; }
